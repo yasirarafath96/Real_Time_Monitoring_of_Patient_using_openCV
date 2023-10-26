@@ -7,7 +7,8 @@ This program captures live video or image data from a camera or other imaging so
 
 ## Flowchart
 
-![image](https://github.com/yasirarafath96/Real_Time_Monitoring_of_Patient_using_openCV/assets/85051168/b4ddaced-39bb-46e9-939c-bf580d2706f5)
+![Picture1](https://github.com/yasirarafath96/Real_Time_Monitoring_of_Patient_using_openCV/assets/85051168/f1580bb7-310a-47c5-9080-6cd20f68c6c3)
+
 
 Before running main.py be sure to install all the necessary libraries in your terminal , you can run the following commands in the termnal to install the necessary libraries.
 
