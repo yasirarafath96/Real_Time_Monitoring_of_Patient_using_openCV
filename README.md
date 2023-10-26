@@ -16,12 +16,19 @@ Before running main.py be sure to install all the necessary libraries in your te
 open anaconda prompt 
 
 conda Create -n tf python=3.6 
+
 activate tf 
+
 pip install pillow
+
 pip install pandas
+
 pip install seaborn
 
 activate tf
+
 f:
+
 source file path
+
 python Main.py
